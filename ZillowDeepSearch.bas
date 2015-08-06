@@ -1,11 +1,7 @@
 Attribute VB_Name = "Module2"
 Sub DeepSearch()
-' Miscrosoft XML v6.0 must be enabled from the VBA editor
-' To enable, go to Tools>References and check the box next to "Miscrosoft XML v6.0"
 
-' Zillow API overview and signup
-' http://www.zillow.com/howto/api/APIOverview.htm
-
+'change this to your zillow id
 ' Zillow Web Service ID
 ZWSID = "X1-ZWz1b36ikuko3v_1is62"
 
